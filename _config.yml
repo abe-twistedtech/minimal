@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
+title: <p align="center"> Abs Varkey </p>
+logo: /assets/img/logo1.jpg
+
 description: Minimal is a theme for GitHub Pages.
+<p align="center">
+<a href="pdf/resume.pdf">Resume/a> |
+<a href="https://www.linkedin.com/in/absvarkey/">LinkedIn/a> |
+<a href="https://github.com/abe-twistedtech">GitHub/a> |
+<a href="">WebSite/a> |
+
+<br>
+A seasoned professional in leading transformative initiatives across diverse industries. 
+Proficient in Digital Enterprise and Solutions Architecture delivery, 
+paired with proficiency in Artificial Intelligence/Machine Learning implementation and ESG.<br>
+
+</p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
