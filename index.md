@@ -1,123 +1,82 @@
+# Data Science Portfolio
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Statistics and Exploratory Data Analyics (EDA)
 
-[Link to another page](./another-page.html).
+### Lending Club Case Study
 
-There should be whitespace between paragraphs.
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
-# Header 1
+<center><img src="images/fraud_detection.jpg"/></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Machine Learning 1 (ML1)
 
-## Header 2
+### Bike Sharing Case Study
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. This assigment builds a multiple linear regression model that helps predict demand for shared bikes with the available independent variables.It can be used to understand how exactly the demands vary with different features.
 
-### Header 3
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/BikeSharingMLGCaseStudy.git)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<center><img src="images/fraud_detection.jpg"/></center>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Natural Language Processing (NLP)
 
-#### Header 4
+### NLP Case Study - 1
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
-##### Header 5
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+<center><img src="images/fraud_detection.jpg"/></center>
 
-###### Header 6
+## Deep Learning (DL)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### DL Case Study - 1
 
-### There's a horizontal rule below this.
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
-* * *
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
-### Here is an unordered list:
+<center><img src="images/fraud_detection.jpg"/></center>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Machine Learning - 2 (ML2)
 
-### And an ordered list:
+### ML2 Case Study - 1
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
-### And a nested list:
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+<center><img src="images/fraud_detection.jpg"/></center>
 
-### Small image
+## Reinforcement Learning (RL)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### RL Case Study - 1
 
-### Large image
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
+<center><img src="images/fraud_detection.jpg"/></center>
 
-### Definition lists can be used with HTML syntax.
+## Deployment and Capstone (DC)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### DC Case Study - 1
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
-```
-The final element.
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
+## AI Strategy (AIS)
+
+### AIS Case Study - 1
+
+If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+
+<center><img src="images/fraud_detection.jpg"/></center>
