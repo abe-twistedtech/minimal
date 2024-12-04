@@ -30,6 +30,7 @@ In the telecom industry, customers are able to choose from multiple service prov
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/BikeSharingMLGCaseStudy.git)
 
 <center><img src="images/fraud_detection.jpg"/></center>
+
 ## Natural Language Processing (NLP)
 
 ### Melanoma Detection Assignment
