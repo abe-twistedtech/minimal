@@ -143,7 +143,7 @@ The assignment highlighted the strategic role of DS in transforming  organisatio
 
 ## Deployment and Capstone (DC)
 
-### DC Case Study - 1
+### Credit Card Fraud Detection
 
 The assignment focused on developing a machine learning solution to predict fraudulent credit card transactions using a dataset from Kaggle, comprising 284,807 transactions, of which only 492 (0.172%) were fraudulent. The primary challenge lay in addressing the highly imbalanced nature of the dataset, which is critical for building accurate and reliable models.
 
