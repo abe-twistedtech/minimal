@@ -108,9 +108,9 @@ The insights gained from topic modeling were then used to train supervised model
 The assignment involved building a lead-scoring system for an EdTech startup, to reduce customer acquisition costs (CAC) and improve the efficiency of their sales process. The primary objective was to categorize leads based on their propensity to purchase EdTech courses, removing junk leads and streamlining the lead conversion process. The system focused on predicting the L2AC (Leads to Application Completion) flag by analyzing lead origins and interactions with the platform.
 
 The assignment emphasized three key MLOps principles:
-* Reproducibility: Ensured by maintaining version-controlled code, creating consistent data pipelines, and standardizing model training and evaluation processes.
-* Automation: Achieved through automated data preprocessing, model training pipelines, and deployment processes, reducing manual intervention.
-* Collaboration: Facilitated by clear communication and coordination between the data science team and the sales team to align on business metrics and requirements.
+* **Reproducibility:** Ensured by maintaining version-controlled code, creating consistent data pipelines, and standardizing model training and evaluation processes.
+* **Automation:** Achieved through automated data preprocessing, model training pipelines, and deployment processes, reducing manual intervention.
+* **Collaboration:** Facilitated by clear communication and coordination between the data science team and the sales team to align on business metrics and requirements.
 
 The developed system helped the sales team prioritize leads more effectively, addressing inefficiencies caused by junk leads and contributing to  long-term profitability.
 
@@ -126,13 +126,13 @@ The assignment involved designing a Data Science (DS) adoption strategy for an e
 
 The use cases considered included delivery date prediction, sentiment analysis, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization. Each use case was analyzed based on its impact on the organisations objectives, feasibility, data and skill requirements, potential changes to current processes, and expected monetary benefits.
 
-Techniques Used:
+**Techniques Used:**
 
-* Prioritization Framework: A systematic approach was used to evaluate and rank the use cases, balancing complexity and business impact.
-* Data Strategy: Leveraged the provided dataset and data architecture to assess the available data and define data requirements.
-* Proof of Concept (PoC): Proposed the development of PoCs to validate the feasibility and effectiveness of DS solutions.
-* Monetary Benefit Estimation: Developed a framework for quantifying the expected benefits of each use case based on assumptions and data-driven insights.
-* Success Metrics: Defined appropriate KPIs, such as increased L2AC, reduced customer churn, optimized pricing, and more accurate delivery predictions, to evaluate the success of each project.
+* **Prioritization Framework:** A systematic approach was used to evaluate and rank the use cases, balancing complexity and business impact.
+* **Data Strategy:** Leveraged the provided dataset and data architecture to assess the available data and define data requirements.
+* **Proof of Concept (PoC):** Proposed the development of PoCs to validate the feasibility and effectiveness of DS solutions.
+* **Monetary Benefit Estimation:** Developed a framework for quantifying the expected benefits of each use case based on assumptions and data-driven insights.
+* **Success Metrics:** Defined appropriate KPIs, such as increased L2AC, reduced customer churn, optimized pricing, and more accurate delivery predictions, to evaluate the success of each project.
  
 The assignment highlighted the strategic role of DS in transforming  organisations operations and achieving its objectives. It demonstrated how to align technical solutions with business goals, propose actionable roadmaps, and quantify potential benefits to secure buy-in from senior management.
 
@@ -145,18 +145,27 @@ The assignment highlighted the strategic role of DS in transforming  organisatio
 
 ### DC Case Study - 1
 
-If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+The assignment focused on developing a machine learning solution to predict fraudulent credit card transactions using a dataset from Kaggle, comprising 284,807 transactions, of which only 492 (0.172%) were fraudulent. The primary challenge lay in addressing the highly imbalanced nature of the dataset, which is critical for building accurate and reliable models.
+
+**Techniques Used:**
+
+* **Data Understanding:**
+Analyzed the dataset features, including principal components derived from PCA for confidentiality, and identified relevant variables such as transaction amount, time, and fraud class.
+* **Exploratory Data Analysis (EDA):**
+Performed univariate and bivariate analyses to understand data distributions.
+Addressed skewness where necessary to ensure robustness in model performance.
+* **Train/Test Split & Validation:**
+Employed k-fold cross-validation to ensure the minority class (frauds) was adequately represented in all test folds, improving model reliability on unseen data.
+* **Sampling Techniques:**
+Applied techniques like oversampling (SMOTE) or undersampling to handle class imbalance and improve the model's ability to detect fraud accurately.
+* **Model Building & Hyperparameter Tuning:**
+Built various machine learning models such as Logistic Regression, Random Forest, and Gradient Boosting, fine-tuning their hyperparameters to achieve optimal performance.
+* **Model Evaluation:**
+Evaluated models using metrics suited for imbalanced datasets, such as precision, recall, F1-score, and ROC-AUC, with a focus on accurately identifying fraudulent transactions over non-fraudulent ones.
+
+The project demonstrated the application of machine learning to solve a critical business problem for banks, highlighting its potential to proactively detect fraudulent activities, minimize financial losses, and strengthen customer trust. This approach reduces manual effort, mitigates chargebacks, and enhances the overall fraud prevention mechanism in the banking industry. 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## AI Strategy (AIS)
-
-### AIS Case Study - 1
-
-If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
-
-<center><img src="images/fraud_detection.jpg"/></center>
