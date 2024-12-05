@@ -39,7 +39,7 @@ In this project, we analyze customer-level data of a leading telecom firm, build
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Natural Language Processing (NLP)
+## Deep Learning (DL)
 
 ### Melanoma Detection Assignment
 
@@ -61,10 +61,12 @@ In this assignment, the goal was to design a smart-TV feature capable of recogni
 
 To achieve this, videos of gestures were analyzed using neural networks. Two prominent architectures were commonly used for video processing:
 
- #### CNN + RNN Architecture  - 
+#### CNN + RNN Architecture  - 
+
 This approach leveraged the strengths of both Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). Each frame of the video was passed through a CNN, which extracted a feature vector representing the key information from that image. These feature vectors, representing the entire sequence of frames, were then fed into an RNN to model the temporal dependencies and analyze the sequence as a whole. This method was something you were already familiar with in theory.
  
- #### 3D Convolutional Network Architecture - 
+#### 3D Convolutional Network Architecture - 
+
 A natural evolution of standard CNNs, 3D Convolutional Networks extended the convolution operation to three dimensions (height, width, and time). This allowed the model to simultaneously capture spatial and temporal features from video data. Unlike the CNN + RNN combination, 3D convolutions directly processed video frames as a block, making it a more unified approach for video-based tasks.
  
 In this project, both architectures were explored to build the gesture recognition feature. This hands-on project offered an exciting opportunity to apply theoretical knowledge to create an innovative, real-world application.
@@ -73,7 +75,7 @@ In this project, both architectures were explored to build the gesture recogniti
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Deep Learning (DL)
+## Natural Language Processing (NLP)
 
 ### DL Case Study - 1
 
