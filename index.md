@@ -77,9 +77,13 @@ In this project, both architectures were explored to build the gesture recogniti
 
 ## Natural Language Processing (NLP)
 
-### DL Case Study - 1
+### Automatic Ticket Classification
 
-If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+The assignment involved automating a financial company's customer support ticket system. The goal was to classify unstructured customer complaints into categories based on the company's products and services, enabling faster issue resolution and improved customer satisfaction.
+
+Using non-negative matrix factorization (NMF) for topic modeling, patterns and recurring words in the complaints were analyzed to identify the key features for each category. The complaints were segregated into five clusters: credit card/prepaid card, bank account services, theft/dispute reporting, mortgages/loans, and others.
+
+The insights gained from topic modeling were then used to train supervised models such as logistic regression or decision trees, enabling the classification of new customer complaints into their relevant categories for efficient handling.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
