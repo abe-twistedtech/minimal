@@ -61,11 +61,11 @@ In this assignment, the goal was to design a smart-TV feature capable of recogni
 
 To achieve this, videos of gestures were analyzed using neural networks. Two prominent architectures were commonly used for video processing:
 
-#### CNN + RNN Architecture  - 
+* #### CNN + RNN Architecture  - 
 
 This approach leveraged the strengths of both Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). Each frame of the video was passed through a CNN, which extracted a feature vector representing the key information from that image. These feature vectors, representing the entire sequence of frames, were then fed into an RNN to model the temporal dependencies and analyze the sequence as a whole. This method was something you were already familiar with in theory.
  
-#### 3D Convolutional Network Architecture - 
+* #### 3D Convolutional Network Architecture - 
 
 A natural evolution of standard CNNs, 3D Convolutional Networks extended the convolution operation to three dimensions (height, width, and time). This allowed the model to simultaneously capture spatial and temporal features from video data. Unlike the CNN + RNN combination, 3D convolutions directly processed video frames as a block, making it a more unified approach for video-based tasks.
  
@@ -76,6 +76,18 @@ In this project, both architectures were explored to build the gesture recogniti
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ## Natural Language Processing (NLP)
+
+### Identifying Entities in Healthcare Data
+
+The assignment involved developing a custom Named Entity Recognition (NER) model to extract diseases and their corresponding treatments from a medical text dataset. The task simulated a scenario for a health tech company,  aiming to organize and interpret unstructured medical data generated through online consultations and prescriptions.
+
+The dataset included sentences with implicit mentions of diseases and treatments, requiring the application of a Conditional Random Field (CRF) model to identify and map these entities. Key steps involved processing the data into sentence format, defining features for the CRF model, training the model using the provided training dataset, and evaluating its performance on test data.
+
+Finally, the extracted information was structured into a dictionary where diseases were keys and their probable treatments were values, enabling better data organization and usability for medical applications.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ### Automatic Ticket Classification
 
@@ -89,11 +101,18 @@ The insights gained from topic modeling were then used to train supervised model
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Machine Learning - 2 (ML2)
+## ML Operations (MLOps)
 
-### ML2 Case Study - 1
+### Lead Generation Pipeline Automation
 
-If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+The assignment involved building a lead-scoring system for an EdTech startup, to reduce customer acquisition costs (CAC) and improve the efficiency of their sales process. The primary objective was to categorize leads based on their propensity to purchase EdTech courses, removing junk leads and streamlining the lead conversion process. The system focused on predicting the L2AC (Leads to Application Completion) flag by analyzing lead origins and interactions with the platform.
+
+The assignment emphasized three key MLOps principles:
+* Reproducibility: Ensured by maintaining version-controlled code, creating consistent data pipelines, and standardizing model training and evaluation processes.
+* Automation: Achieved through automated data preprocessing, model training pipelines, and deployment processes, reducing manual intervention.
+* Collaboration: Facilitated by clear communication and coordination between the data science team and the sales team to align on business metrics and requirements.
+
+The developed system helped the sales team prioritize leads more effectively, addressing inefficiencies caused by junk leads and contributing to  long-term profitability.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
