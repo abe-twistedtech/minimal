@@ -118,9 +118,9 @@ The developed system helped the sales team prioritize leads more effectively, ad
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Data Strategy (RL)
+## Data Strategy
 
-### RL Case Study - 1
+### Data Science Adoption Strategy
 
 The assignment involved designing a Data Science (DS) adoption strategy for an e-commerce company, to align with its business goals of increasing active customers, revenue, service efficiency, and customer experience. The project focused on prioritizing use cases based on feasibility, complexity, and value while addressing the constraints of a newly formed DS team with limited resources.
 
