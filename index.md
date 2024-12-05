@@ -118,11 +118,24 @@ The developed system helped the sales team prioritize leads more effectively, ad
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Reinforcement Learning (RL)
+## Data Strategy (RL)
 
 ### RL Case Study - 1
 
-If one is able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.In other words, understanding the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+The assignment involved designing a Data Science (DS) adoption strategy for an e-commerce company, to align with its business goals of increasing active customers, revenue, service efficiency, and customer experience. The project focused on prioritizing use cases based on feasibility, complexity, and value while addressing the constraints of a newly formed DS team with limited resources.
+
+The use cases considered included delivery date prediction, sentiment analysis, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization. Each use case was analyzed based on its impact on the organisations objectives, feasibility, data and skill requirements, potential changes to current processes, and expected monetary benefits.
+
+Techniques Used:
+
+* Prioritization Framework: A systematic approach was used to evaluate and rank the use cases, balancing complexity and business impact.
+* Data Strategy: Leveraged the provided dataset and data architecture to assess the available data and define data requirements.
+* Proof of Concept (PoC): Proposed the development of PoCs to validate the feasibility and effectiveness of DS solutions.
+* Monetary Benefit Estimation: Developed a framework for quantifying the expected benefits of each use case based on assumptions and data-driven insights.
+* Success Metrics: Defined appropriate KPIs, such as increased L2AC, reduced customer churn, optimized pricing, and more accurate delivery predictions, to evaluate the success of each project.
+ 
+The assignment highlighted the strategic role of DS in transforming  organisations operations and achieving its objectives. It demonstrated how to align technical solutions with business goals, propose actionable roadmaps, and quantify potential benefits to secure buy-in from senior management.
+
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
 
