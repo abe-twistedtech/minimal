@@ -35,7 +35,7 @@ In the telecom industry, customers are able to choose from multiple service prov
 
 In this project, we analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn. The goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/BikeSharingMLGCaseStudy.git)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/TelecomChurnPrediction.git)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -71,7 +71,7 @@ A natural evolution of standard CNNs, 3D Convolutional Networks extended the con
  
 In this project, both architectures were explored to build the gesture recognition feature. This hands-on project offered an exciting opportunity to apply theoretical knowledge to create an innovative, real-world application.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/GestureRecognition)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -85,7 +85,7 @@ The dataset included sentences with implicit mentions of diseases and treatments
 
 Finally, the extracted information was structured into a dictionary where diseases were keys and their probable treatments were values, enabling better data organization and usability for medical applications.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/Disease-Treatments)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -97,7 +97,7 @@ Using non-negative matrix factorization (NMF) for topic modeling, patterns and r
 
 The insights gained from topic modeling were then used to train supervised models such as logistic regression or decision trees, enabling the classification of new customer complaints into their relevant categories for efficient handling.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/AutomaticTicketClassification)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -114,7 +114,7 @@ The assignment emphasized three key MLOps principles:
 
 The developed system helped the sales team prioritize leads more effectively, addressing inefficiencies caused by junk leads and contributing to  long-term profitability.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LeadGenerationPipelineAutomation)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -137,7 +137,7 @@ The use cases considered included delivery date prediction, sentiment analysis, 
 The assignment highlighted the strategic role of DS in transforming  organisations operations and achieving its objectives. It demonstrated how to align technical solutions with business goals, propose actionable roadmaps, and quantify potential benefits to secure buy-in from senior management.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/DataScienceAdoptionStrategy)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
