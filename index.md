@@ -51,7 +51,7 @@ To enhance the model's performance, data augmentation techniques were applied to
 
 Through this project,a powerful model was built, applying advanced techniques to tackle a critical real-world problem in the medical field. This hands-on experience not only strengthened technical skills but also showcased the potential of AI in improving healthcare outcomes. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/MelanomaDetectionCNNCaseStudy)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
@@ -165,7 +165,7 @@ Evaluated models using metrics suited for imbalanced datasets, such as precision
 
 The project demonstrated the application of machine learning to solve a critical business problem for banks, highlighting its potential to proactively detect fraudulent activities, minimize financial losses, and strengthen customer trust. This approach reduces manual effort, mitigates chargebacks, and enhances the overall fraud prevention mechanism in the banking industry. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/abe-twistedtech/CreditCardFraudDetection)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
